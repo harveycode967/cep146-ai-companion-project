@@ -1,8 +1,8 @@
 # AI Evaluation — Model 1
 
 **AI model used:** ChatGPT (GPT-5.6)
-**Date submitted:** [today's date]
-**Submitted by:** [your name]
+**Date submitted:**11/08/2026 
+**Submitted by:** Mohammed Faizan
 
 ## Our Prompt
 
