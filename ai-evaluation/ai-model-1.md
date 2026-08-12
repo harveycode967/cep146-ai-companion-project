@@ -16,8 +16,8 @@ suggested grade, specific strengths, and areas to improve. Be strict on
 accuracy — our topic involves a Chinese regulation with no official English 
 translation, so tell us if we have overstated anything.
 
-GitHub Repository:(https://github.com/harveycode967/cep146-ai-companion-project)
-YouTube Video: (https://youtu.be/YVwvCAheSUo)
+GitHub Repository: https://github.com/harveycode967/cep146-ai-companion-project
+YouTube Video: https://youtu.be/YVwvCAheSUo
 
 Grading Rubric (each category worth 25 points, total out of 100):
 
