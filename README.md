@@ -15,6 +15,7 @@ The regulation is scoped narrowly to emotional-companion products, not AI chatbo
 ## YouTube Video
 
 Add the public YouTube link here once the video is recorded. It must be set to PUBLIC before submission; a private or unlisted video cannot be graded.
+https://youtu.be/YVwvCAheSUo
 
 ## Discussion Question
 
