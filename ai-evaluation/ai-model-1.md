@@ -18,7 +18,6 @@ translation, so tell us if we have overstated anything.
 
 GitHub Repository: https://github.com/harveycode967/cep146-ai-companion-project
 YouTube Video: https://youtu.be/YVwvCAheSUo
-
 Grading Rubric (each category worth 25 points, total out of 100):
 
 1. Content & Presentation (25 points)
