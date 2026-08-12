@@ -4,6 +4,8 @@
 
 Phone Thet Naing, 111795266
 
+Mohammed Faizan, 100598267
+
 ## Topic Summary
 
 On 10 April 2026 China's Cyberspace Administration, together with four other agencies, issued Interim Measures for the Administration of Anthropomorphic AI Interaction Services, effective 15 July 2026. The rules target AI that simulates a person's personality and provides ongoing emotional interaction, such as virtual companions, not general-purpose chatbots. Providers must disclose that the service is AI, avoid fostering addiction or dependence, add anti-addiction reminders, provide crisis-intervention pathways, and restrict virtual intimate-relationship features for minors. Rather than rebuild to comply, three of China's largest consumer AI apps withdrew the feature entirely: Tencent's Yuanbao in late June, Alibaba's Qwen between 10 and 15 July with no data migration path, and ByteDance's Doubao on 15 July with a three-month read-only window for chat history.
@@ -14,7 +16,6 @@ The regulation is scoped narrowly to emotional-companion products, not AI chatbo
 
 ## YouTube Video
 
-Add the public YouTube link here once the video is recorded. It must be set to PUBLIC before submission; a private or unlisted video cannot be graded.
 https://youtu.be/YVwvCAheSUo
 
 ## Discussion Question
