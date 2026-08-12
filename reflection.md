@@ -40,7 +40,7 @@ The most useful thing was having AI read the full assignment page and turn it in
 
 The clearest example was on the regulation itself. There is no official English translation of the Interim Measures, so every English description of it is somebody's interpretation of the Chinese text. That meant we could not treat any AI summary of what the law requires as fact, and had to attribute those points to law firm summaries instead. We also had to be careful with the figure of 345 million monthly users for Doubao, because that is a company disclosure covering the whole app rather than an independently verified count of people who lost a companion feature.
 
-AI also got a requirement wrong at one point. It told us the rubric required both of us to appear on camera. When we went back and read the guidelines properly, the presentation style section allows slides with voiceover, so faces were never required. Only the voice has to be our own. That one would have changed how we recorded the whole video if we had not checked.
+AI also overstated how certain it was about a requirement. It told us the rubric required both of us to appear on camera. When we checked the guidelines ourselves, it turned out to be genuinely ambiguous. The presentation style section allows slides with voiceover as a format, but the Excellent band of the rubric says all team members "appear and speak". Two parts of the same document pull in different directions, and the AI presented one reading as settled fact rather than flagging the conflict. We ended up asking rather than assuming, which is what we should have done first.
 
 ### B4. Overall Reflection
 
