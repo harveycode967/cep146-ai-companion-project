@@ -4,6 +4,7 @@
 **Date run:** 12 August 2026
 **Conversation:** https://gemini.google.com/app/650cd78b4f9ffc70
 **Suggested grade:** 88 out of 100
+**By** Phone Thet Naing
 
 ## Our prompt
 
